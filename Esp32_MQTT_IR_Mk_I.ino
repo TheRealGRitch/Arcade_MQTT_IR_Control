@@ -11,10 +11,10 @@ int IR_RECEIVE_PIN = 13;
 
 //+=============================================================================
 // Wi-Fi ssid and password
-#define ssid       "NETGEAR48"
-#define password       "deepsea465"
+#define ssid       "*********"
+#define password       "*******"
 // Your broaker IP, in this format
-IPAddress server(192, 168, 1, 31); 
+IPAddress server(***, ***, *, **); 
 //+=============================================================================
 
 //+=============================================================================
